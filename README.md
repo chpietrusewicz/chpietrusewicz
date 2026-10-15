@@ -13,4 +13,4 @@ I'm a computer science student at Worcester Polytechnic Institute graduating in 
 * **Tools & Databases:** Git, Github, MongoDB, Linux, Render
 
 ### 📌 Featured Projects
-* **[Pickleball Court Queueing System]([GitHub Repo](https://github.com/chpietrusewicz/pickleball-queueing-system)):** Real-time queue and party management web app for university club sports using React, TypeScript, Node.js, MongoDB, and WebSockets. ([Live Demo](https://pickleball-queueing-system-3e4e.onrender.com/))
+* **Pickleball Court Queueing System([GitHub Repo](https://github.com/chpietrusewicz/pickleball-queueing-system)):** Real-time queue and party management web app for university club sports using React, TypeScript, Node.js, MongoDB, and WebSockets. ([Live Demo](https://pickleball-queueing-system-3e4e.onrender.com/))
